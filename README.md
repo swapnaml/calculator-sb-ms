@@ -1,6 +1,6 @@
 # calculator-sb-ms
 
-Clculator-sb-ms is a retail service, helps to perform the aithmatic operations such as addition, substraction, multiplication and devision. Spring Boot application and the tomcat embedded servlet been using.
+Clculator-sb-ms is a retail service, helps to perform the arithmatic operations such as addition, substraction, multiplication and devision. Spring Boot application and the tomcat embedded servlet been using.
 
 Required software:
 jdk 8
